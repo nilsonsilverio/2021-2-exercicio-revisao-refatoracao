@@ -23,7 +23,7 @@ int main()
 
     Cliente cliente3;
     cliente3.NOME = "Otto Octavius";
-    cliente3.endereco ="Schenectady";
+    cliente3.endereco ="Schenectady\n";
 	cliente3.Cep = "24051953";
     cliente3.print();
 
